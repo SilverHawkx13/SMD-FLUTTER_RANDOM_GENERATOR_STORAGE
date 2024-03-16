@@ -1,4 +1,4 @@
-# Random Keyword Generator App
+# Random Keyword Generator App With Persistent Storage
 
 ## Group Members
 20K-0184 Abdullah Raza<br>
